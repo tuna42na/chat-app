@@ -1,0 +1,17 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "Sockit.io Chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon index.js"
+  },
+  "author": "Tuna Fortuna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
+}
